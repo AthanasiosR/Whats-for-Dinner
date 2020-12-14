@@ -1,3 +1,3 @@
 # Whats-for-Dinner
 
-What's for Dinner helps it users decide What and Where to eat.
+What's for Dinner helps its users decide What and Where to eat.
